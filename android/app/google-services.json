@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541627169138",
+    "project_id": "flutter-speedometer",
+    "storage_bucket": "flutter-speedometer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541627169138:android:91b87516eb94bad1f245eb",
+        "android_client_info": {
+          "package_name": "com.example.accialert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541627169138-9fsgc5bnp16jgimqcbec2tio5lbjv6fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1gvHmsTmOy-IN5rDXdDgX7kOpoGf6NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541627169138-9fsgc5bnp16jgimqcbec2tio5lbjv6fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
